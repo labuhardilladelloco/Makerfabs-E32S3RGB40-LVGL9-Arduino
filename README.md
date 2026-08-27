@@ -60,6 +60,12 @@ hardware, Wi-Fi, sensores, JSON u otra lógica propia.
         └── app/     → permanent application logic
 
 
+## Disclaimer
+
+This is an independent community project by LaBuhardillaDelLoco and is not
+an official Makerfabs library or officially supported Makerfabs software.
+
+
 
 ## License
 
@@ -67,7 +73,10 @@ This project is licensed under the MIT License.
 
 Copyright © 2026 LaBuhardillaDelLoco.
 
-If you use or redistribute this project, please retain the original
-copyright and license notice.
+You are free to use, modify, and redistribute this software under the terms
+of the MIT License. The original copyright and license notice must be
+preserved in copies or substantial portions of the software.
+
+See the [LICENSE](LICENSE) file for the full license text.
 
         
