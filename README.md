@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/31488588/README.md)
-# MaTouch E32S3RGB40 — Arduino IDE 2 + SquareLine + LVGL 9.5
+# MaTouch ESP32-S3 4" — LVGL 9.5 + SquareLine + Arduino IDE 2
 
 Plantilla para ESP32-S3-WROOM-1 N16R8, pantalla ST7701S RGB 480x480 y GT911.
 Utiliza el driver RGB nativo `esp_lcd` de Arduino-ESP32 3.x; no depende de
