@@ -17,6 +17,9 @@ Utiliza directamente el driver RGB nativo `esp_lcd` de Arduino-ESP32 y no depend
   <img src="4-inch-esp32-s3-parallel-tft-with-touch-1000x750.jpg"
        alt="Makerfabs MaTouch ESP32-S3 ejecutando LVGL 9.5"
        width="650">
+    <img src="4-inch-esp32-s3-parallel-tft-with-touch-1000x750.jpg"
+       alt="Makerfabs MaTouch ESP32-S3 ejecutando LVGL 9.5"
+       width="650">
 </p>
 
 > La plantilla ha sido probada desde una instalación limpia en un segundo equipo: Arduino IDE 2 + Arduino-ESP32 + LVGL 9.5 → abrir → compilar → subir.
